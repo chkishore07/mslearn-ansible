@@ -1,0 +1,8 @@
+[
+    {
+      "host": "23.102.32.70",
+      "port": 22,
+      "user": "azureuser",
+      "key": "/c/Users/hp/.ssh/ansible_rsa"
+    }
+  ]
